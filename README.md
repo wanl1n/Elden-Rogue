@@ -1,6 +1,8 @@
 Elden Rogue
 Machine Project for GDPROG3 A.Y. 2022-2023
 
+A console game inspired by Elden Ring made using C.
+
 developed by Kate Nicole Young and Kassandra Alexei So
 
 Screenshots
