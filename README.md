@@ -1,11 +1,11 @@
-Elden Rogue
+<h1>Elden Rogue</h1>
 Machine Project for GDPROG3 A.Y. 2022-2023
 
 A console game inspired by Elden Ring made using C.
 
 developed by Kate Nicole Young and Kassandra Alexei So
 
-Screenshots
+<h2>Screenshots</h2>
 <img width="1352" height="748" alt="JUJtmI" src="https://github.com/user-attachments/assets/e2725e5e-062c-4fb9-b3a0-8ef55acdf4e2" />
 <img width="615" height="458" alt="6Rj5Oy" src="https://github.com/user-attachments/assets/cdc2a11b-0579-4765-a0ce-45c6d7b3945e" />
 <img width="621" height="659" alt="urNGaB" src="https://github.com/user-attachments/assets/3f80c1e4-0a08-41b5-b091-be1a85f75c8b" />
