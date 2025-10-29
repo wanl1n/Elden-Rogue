@@ -1,7 +1,7 @@
 <h1>Elden Rogue</h1>
 Machine Project for GDPROG3 A.Y. 2022-2023
 
-A console game inspired by Elden Ring made using C.
+A dungeon crawler console game inspired by Elden Ring with turn-based combat and fun collection of items and people to interact with made using C!
 
 developed by Kate Nicole Young and Kassandra Alexei So
 
